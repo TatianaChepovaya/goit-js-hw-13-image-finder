@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(255, 255, 155);
+  color: #580202;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+}
+
+/*GENERAL STYLES*/
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.title {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
