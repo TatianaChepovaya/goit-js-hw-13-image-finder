@@ -1,7 +1,7 @@
-/*
- * Главный файл стилей.
- * Все паршалы подключаются сюда.
- */
+@import '../node_modules/toastr/toastr.scss';
+@import '../node_modules/basiclightbox/src/styles/main.scss';
 
-// Стили для файла с примером HTML-фрагмента
-@import './example';
+@import './base';
+@import './form';
+@import './component-btn';
+@import './gallery';
