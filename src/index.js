@@ -1,3 +1,4 @@
+import toastr from 'toastr';
 import './sass/main.scss';
 import ImageApiService from './js/apiService';
 import cardTmp from './templates/card.hbs';
